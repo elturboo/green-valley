@@ -6637,3 +6637,9 @@ article.post-large .post-audio {
 	width: 100%;
 	object-fit: cover;
 }
+
+.partners-img img {
+	height: 100px;
+	width: 100px;
+	object-fit: cover;
+}
